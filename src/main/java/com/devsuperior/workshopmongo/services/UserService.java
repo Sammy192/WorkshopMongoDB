@@ -17,6 +17,7 @@ public class UserService {
 
     public List<UserDTO> findAll() {
         List<User> list = repository.findAll();
-        return list.stream().map(x -> new UserDTO()).collect(Collectors.toList());
+        return list.stream().map(x -> new UserDTO(x)).collect(Collectors.toList());
     }
+
 }
