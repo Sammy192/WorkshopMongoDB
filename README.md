@@ -8,6 +8,15 @@
 
 Projeto no qual pode ser inserido um Usuario e este usuário realizar Posts e comentários nestes posts.
 
+## Objetivo geral
+
+- Compreender as principais diferenças entre paradigma orientado a documentos e relacional
+- Implementar operações de CRUD
+- Refletir sobre decisões de design para um banco de dados orientado a documentos
+- Objetos aninhados
+- Referências
+- Realizar consultas com Spring Data e MongoRepository
+
 ## Collections Postman
 Pode ser encontrado dentro de pasta específica aqui no repo.
 
