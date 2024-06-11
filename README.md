@@ -5,7 +5,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-Projeto no qual pode ser inserido um Usuario e este usuário realizar Posts e comentários nestes posts.
+DSPost é uma API REST desenvolvida em Java com o framework Spring Boot, que utiliza MongoDB como banco de dados.
+O objetivo do projeto é fornecer uma plataforma para gerenciamento de posts e usuários, permitindo realizar operações de CRUD (Create, Read, Update, Delete) em ambos.
 
 ## Objetivo geral
 
